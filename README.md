@@ -2,7 +2,7 @@
 
 In this hands-on activity, you will step into the role of a financial analyst responsible for managing a client’s investment portfolio. Your task is to calculate portfolio values, returns, and other key metrics using Excel's arithmetic operators and functions. Through this activity, you'll understand how to perform basic financial calculations, apply the BODMAS rule, and use Excel’s built-in functions to analyze and manage the portfolio effectively.
 
-#Objective 
+# Objective 
  - understand and use basic arithmetic operators (+, -, *, /) in Excel for calculations
 
  - apply the BODMAS (Brackets, Orders, Division/Multiplication, Addition/Subtraction) rule in Excel formulas
@@ -11,19 +11,16 @@ In this hands-on activity, you will step into the role of a financial analyst re
 
 - calculate the performance of an investment portfolio, including returns and overall portfolio value
 
- Required tools
+# Required tools
 Tool 1: Microsoft 365 with Copilot
-
 Tool 2: Access to a sample dataset:
 
-Activity description
-Scenario
+# Activity description
+
 You are a financial analyst tasked with managing the investment portfolio of a client. The portfolio contains different assets like stocks, bonds, and mutual funds, with each having varying returns over the past year. Your client wants to know the overall performance of their portfolio, including the total value of investments, average returns, the highest and lowest returns, and the number of assets in their portfolio.
 
 Your primary task is to use Excel to calculate and analyze this data, ensuring accurate results that can be shared with your client. You’ll also use BODMAS to ensure that complex calculations are performed correctly. In addition, you’ll use built-in Excel functions like SUM, AVERAGE, MIN, MAX, and COUNT to streamline your analysis.
 
-Step-by-step instructions
-Follow the set of steps that will give guidance in training a predictive model.
 
 Task 1: Explore basic arithmetic operators
 Download the Investment portfolio dataset that is available in the Required Tools section. 
@@ -40,7 +37,7 @@ Finally, to calculate the return on each investment, subtract your Initial Inves
 
 Now calculate the % ROI on each investment by prompting Copilot to generate this formula for you. Insert the additional column at the end of the dataset.
 
-Task 2: Apply the BODMAS rule
+# Task 2: Apply the BODMAS rule
 For a more complex scenario, assume you need to apply fees and taxes on the annual returns.
 
 Use the assumption that you need to pay 15% tax on the return you’ve earned on each investment as well as a fixed administration fee of €100 per investment, and calculate the net fair market value of each investment. For example:
