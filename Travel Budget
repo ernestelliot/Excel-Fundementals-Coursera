@@ -1,0 +1,60 @@
+# Activity overview
+In this introductory activity, you'll step into the role of a savvy traveler preparing for your next adventure. The goal is to create a simple yet effective travel budget using Copilot in Excel. This task is designed to be a quick win to familiarize you with the basic functionalities of Excel and its Copilot feature, setting the stage for more complex tasks in the upcoming lessons. 
+
+# Learning objectives
+By the end of this activity, you will achieve the following objectives:
+
+use Copilot in Excel to create a simple travel budget
+
+apply basic formatting tools to enhance the readability and presentation of your budget
+
+use a SUM formula to calculate total costs
+
+save your Excel file as a template for future budgeting needs
+
+#Required tools
+Tool 1: Microsoft 365 with Copilot
+
+Proceed to the video, “Hands-on activity debrief: Create a travel budget,” for guidance on completing the tasks in this activity.
+
+# Activity description  
+Scenario
+Imagine you're planning a weekend getaway and need to quickly put together a budget. You have a few major expenses to consider: transportation, accommodation, meals, entertainment, and miscellaneous costs. Your challenge is to create a neatly formatted budget, calculate the total expected cost, and save this document as a template for future trips. 
+
+Step-by-step instructions
+Follow these steps to create a simple travel budget to help plan your next holiday.
+
+# Task 1: Setup your worksheet
+Open Excel and start a new worksheet.
+
+Begin by opening a new Excel worksheet where you'll build your budget.
+
+# Task 2: Set up budget lines 
+Enter the following categories in column A: Transportation, Accommodation, Meals, Entertainment, and Miscellaneous.
+
+# Task 3: Input estimated costs
+Input your estimated costs in column B, next to each category. These can be hypothetical or based on a real upcoming trip.
+
+# Task 4: Prompt Copilot in Excel for basic formatting
+Prompt Copilot with Format these cells with currency formatting and bold the category names.
+
+# Task 5: Calculate the total cost
+Prompt Copilot with Insert a SUM formula to calculate the total of these costs at the bottom of your cost column.
+
+# Task 6: Save as a template
+Once your budget looks complete and well-formatted, save this document as a template.
+
+Prompt Copilot with: Save this sheet as a template named "Travel Budget Template'" for future use.
+
+
+By following these steps, you'll be able to:
+
+use Copilot in Excel to create a simple travel budget
+
+apply basic formatting tools to enhance the readability and presentation of your budget
+
+use a SUM formula to calculate total costs
+
+save your Excel file as a template for future budgeting needs
+
+Troubleshooting tips
