@@ -22,7 +22,7 @@ You are a financial analyst tasked with managing the investment portfolio of a c
 Your primary task is to use Excel to calculate and analyze this data, ensuring accurate results that can be shared with your client. You’ll also use BODMAS to ensure that complex calculations are performed correctly. In addition, you’ll use built-in Excel functions like SUM, AVERAGE, MIN, MAX, and COUNT to streamline your analysis.
 
 
-Task 1: Explore basic arithmetic operators
+# Task 1: Explore basic arithmetic operators
 Download the Investment portfolio dataset that is available in the Required Tools section. 
 
 Open the Excel file and review the columns, which include Investment Name, Investment Cost, Number of shares owned, Total shares, and Fair Market Value.
@@ -58,7 +58,7 @@ Net Fair Market Value: €424.900 = (€500.000 – (€500.000 * 15%) - €100)
 
 Apply BODMAS to ensure the correct calculation of returns after deductions. Use brackets to prioritize operations and subtract the fees and taxes after calculating the returns.
 
-Task 3: Use mathematical functions (SUM, AVERAGE, MIN, MAX, COUNT)
+# Task 3: Use mathematical functions (SUM, AVERAGE, MIN, MAX, COUNT)
 You can practice the mathematical functions manually or using Copilot. 
 
 Calculate the Total Investment Cost:
@@ -93,11 +93,11 @@ Use the COUNT function to determine how many investments are in the portfolio
 
 Or prompt Copilot to find the minimum and maximum returns.
 
-Task 4: Analyze portfolio performance
+# Task 4: Analyze portfolio performance
 Identify which investments are underperforming and which ones are providing high returns using Copilot. Hint: prompt Copilot to apply conditional formatting to highlight the investments with high returns and the underperforming investments in a different color.
 
 Prompt Copilot to identify outliers in your investment portfolio.
 
-Task 5: Visualize the data
+# Task 5: Visualize the data
 
 Create a simple bar chart or line graph to visualize the return rates (%) for each investment.
