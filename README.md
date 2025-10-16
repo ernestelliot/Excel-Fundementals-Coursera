@@ -3,7 +3,7 @@
  Welcome!
 
 
-## Content Structure
+## Content 
 
 - `01_Introduction/`  
   Basic introduction to Excel w/ Copilot 
