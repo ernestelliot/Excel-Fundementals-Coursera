@@ -1,4 +1,4 @@
-# Microsoft Excel Fundamentals - Coursera 
+# Microsoft Excel Fundamentals
 
  Welcome!
 
